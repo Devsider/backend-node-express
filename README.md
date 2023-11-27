@@ -124,7 +124,7 @@ List of available routes:
 **Auth routes**:\
 `POST api/v1/auth/signup` - Signup\
 `POST api/v1/auth/signin` - Signin\
-`POST api/v1/auth/logout` - Logout\
+`POST api/v1/auth/signout` - Logout\
 `POST api/v1/auth/refresh-tokens` - Refresh auth tokens\
 `POST api/v1/auth/forgot-password` - Send reset password email\
 `POST api/v1/auth/reset-password` - Reset password\
